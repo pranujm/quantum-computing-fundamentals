@@ -1,4 +1,4 @@
-# quantum-computing-fundamentals
+# quantum-computing-simulations
 Developed foundational quantum computing skills using Python's Qiskit framework and Jupyter Notebook through hands-on programming projects.
 
 Key accomplishments include:
